@@ -1,5 +1,5 @@
 {
-  "name": "mw-js-interview",
+  "name": "js-interview",
   "version": "1.0.0",
   "description": "A Simple web application for debugging with candidates",
   "main": "src/index.js",
