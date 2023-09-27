@@ -1,0 +1,15 @@
+{
+  "name": "mw-js-interview",
+  "version": "1.0.0",
+  "description": "A Simple web application for debugging with candidates",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "http-server -o src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremiah Hoyet <jeremiah.hoyet@meltwater.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
